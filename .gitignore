@@ -1,0 +1,9 @@
+# Ignore environment variables
+.env
+
+# Ignore generated PDFs
+*.pdf
+
+# Ignore virtual environment
+venv/
+
